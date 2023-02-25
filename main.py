@@ -23,7 +23,7 @@ from aiogram.utils.helper import Helper, HelperMode, ListItem
 from rich.console import Console
 from rich.progress import *
 
-ADMIN = 840987868
+ADMIN = #ваш телеграм айди
 
 logging.basicConfig(level=logging.INFO)
 
